@@ -4,6 +4,4 @@
 # Following are the collection of programs :-
 
 # [1) Program to print HELLO WORLD.](CODES/hello.c)
-# [2) To check sparse matrix.](CODES/Sparse matrix.c)
-# [2) To check sparse matrix](CODES/Sparse matrix.c)
-# [jeijeif](CODES/Sparse matrix.c)
+# [2)array input](CODES/array input.c)
