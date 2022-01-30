@@ -4,4 +4,4 @@
 # Following are the collection of programs :-
 
 # [1) Program to print HELLO WORLD.](CODES/hello.c)
-# [2)array input](https://github.com/xakep-8/C_basic/blob/96d595701ca7a413cc3ccc6470e64f98e58bcd18/CODES/hello.c)
+# [2) Array input](https://github.com/xakep-8/C_basic/blob/96d595701ca7a413cc3ccc6470e64f98e58bcd18/CODES/hello.c)
